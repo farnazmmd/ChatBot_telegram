@@ -31,5 +31,5 @@ Due to restrictions in Iran, the bot might not work properly without a VPN or pr
 
 Install the required library with:
 
-`bash
+```bash
 pip install python-telegram-bot
